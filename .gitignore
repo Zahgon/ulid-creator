@@ -49,3 +49,8 @@ notes/*
 docs/javadoc/*
 
 
+
+.aider*
+logs/
+.commit0_scripts/
+.github/workflows/
